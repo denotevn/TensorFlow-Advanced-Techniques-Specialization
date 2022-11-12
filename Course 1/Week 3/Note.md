@@ -15,5 +15,7 @@
 + Examples: 
    + ![Layers](https://github.com/denotevn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%201/Week%203/images/create%20custom%20layers.png)
    + With activation:
-   + ![Activation]()
+   + ![Activation](https://github.com/denotevn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%201/Week%203/images/with%20activation.png)
+# Lab assigment:
+  + You will implement a simple quadratic layer and include it as part of a model. You will then train this model on the MNIST dataset.
 
