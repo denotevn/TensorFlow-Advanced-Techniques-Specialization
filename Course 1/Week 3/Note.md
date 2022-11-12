@@ -11,4 +11,9 @@
 + Let's see C1_W3_Lab_1_lambda-layer.ipynb in floder week 3
 ![Examples](https://github.com/denotevn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%201/Week%203/images/examples1.png)
 
+# Coding your own custom Dense Layer
++ Examples: 
+   + ![Layers](https://github.com/denotevn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%201/Week%203/images/create%20custom%20layers.png)
+   + With activation:
+   + ![Activation]()
 
