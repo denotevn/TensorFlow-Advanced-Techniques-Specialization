@@ -8,4 +8,5 @@
 + Examples lambda layers: 
    + ***tf.keras.layers.Lambda(lambda x: tf.abs(x))***
 + Trong bài này mình sẽ học viết hàm activation riêng cho model của bạn. Có vẻ sẽ hiệu quả hơn các hàm define sẵn trong tensoflow. hãy chờ xem !
+![Examples](https://github.com/denotevn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%201/Week%203/images/examples1.png)
 
